@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ivanruedas85.github.io/csb-szsc03/static/css/main.ef1d254d.chunk.css",
+    "main.js": "https://ivanruedas85.github.io/csb-szsc03/static/js/main.7bd7968b.chunk.js",
+    "main.js.map": "https://ivanruedas85.github.io/csb-szsc03/static/js/main.7bd7968b.chunk.js.map",
+    "runtime-main.js": "https://ivanruedas85.github.io/csb-szsc03/static/js/runtime-main.f8651e95.js",
+    "runtime-main.js.map": "https://ivanruedas85.github.io/csb-szsc03/static/js/runtime-main.f8651e95.js.map",
+    "static/js/2.b71738cb.chunk.js": "https://ivanruedas85.github.io/csb-szsc03/static/js/2.b71738cb.chunk.js",
+    "static/js/2.b71738cb.chunk.js.map": "https://ivanruedas85.github.io/csb-szsc03/static/js/2.b71738cb.chunk.js.map",
+    "index.html": "https://ivanruedas85.github.io/csb-szsc03/index.html",
+    "static/css/main.ef1d254d.chunk.css.map": "https://ivanruedas85.github.io/csb-szsc03/static/css/main.ef1d254d.chunk.css.map",
+    "static/js/2.b71738cb.chunk.js.LICENSE.txt": "https://ivanruedas85.github.io/csb-szsc03/static/js/2.b71738cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8651e95.js",
+    "static/js/2.b71738cb.chunk.js",
+    "static/css/main.ef1d254d.chunk.css",
+    "static/js/main.7bd7968b.chunk.js"
+  ]
+}
